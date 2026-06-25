@@ -1,5 +1,7 @@
 # Python Syntax & Concepts — Refresher
 
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
+
 Everything required to understand any Python codebase.
 
 ---
