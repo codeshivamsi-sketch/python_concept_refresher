@@ -26,6 +26,7 @@ Everything required to understand any Python codebase.
 11. `if __name__ == "__main__":`
 12. `os.getenv()` — reading env vars / API keys
 13. `global` keyword
+14. `dir()` — inspect all methods/attributes of any object
 
 ---
 
